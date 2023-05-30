@@ -1,0 +1,5 @@
+{
+  "packageManager": "python",
+  "packageName": "clean_monokai",
+  "uninstallInstructions": "Use your Python package manager (pip, conda, etc.) to uninstall the package clean_monokai"
+}

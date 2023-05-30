@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.0.5
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: hqng.git@gmail.com
+author_name: hqng
+data_format: string
+file_extension: ''
+has_binder: false
+has_settings: false
+kind: theme
+labextension_name: clean_monokai
+mimetype: ''
+mimetype_name: ''
+project_short_description: A JupyterLab extension. of a neat monokai theme
+python_name: clean_monokai
+repository: https://github.com/hqng/clean_monokai.git
+test: false
+viewer_name: ''
+
